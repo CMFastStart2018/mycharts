@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  notificationchart:
+  - apiVersion: v1
+    created: 2018-02-04T22:27:34.807225782-08:00
+    description: A Helm chart for Kubernetes
+    digest: 4edebc5bd566732681feb61d2e4502a676a3d04d8f222b8fdfd4bb1697537fec
+    name: notificationchart
+    urls:
+    - https://CMFastStart2018.github.io/mycharts/notificationchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-02-04T22:27:34.806882271-08:00
